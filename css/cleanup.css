@@ -1,1 +1,23 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+.tag-1{
+    display: none;
+}
+.tag-1{
+    background: none;
+    z-index: 0;
+    display: none;
+}
+.tag-1{
+    position: none;
+    top: 0%;
+    left: 0%;
+    width: 0px;
+    height: 0px;
+}
+html{
+    font-family: none;
+    -webkit-text-size-adjust: none;
+}
